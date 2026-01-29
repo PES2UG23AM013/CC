@@ -108,7 +108,8 @@ Learning Outcomes
 
 Author
 ------
-SRN: PES2UG23AM013
-Course: Cloud Computing Lab
-Assignment: Monolithic Applications Lab
+• SRN: PES2UG23AM013  
+• Course: Cloud Computing Lab  
+• Assignment: Monolithic Applications Lab
+
 
